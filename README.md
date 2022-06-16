@@ -1,4 +1,4 @@
-TECHDATA:
+#TECHDATA:
 
 Projeto em python cuja ideia é permitir uma visualização e manipulação de dados de gastos e assim ter controle sobre os levantamentos básicos de gastos e recursos líquidos. 
 
