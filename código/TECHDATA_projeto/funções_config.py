@@ -7,9 +7,10 @@ import janelas
 import time
 import os
 
+# host='us-cdbr-east-05.cleardb.net', database='heroku_ad96941270da4eb', user='ba6837bc72c384', password='91717510'
+
 
 # Tela de cadastramento de projetos.
-
 
 # Tela cheia.
 def full(parametro):
